@@ -19,4 +19,4 @@ Simple calculator Webapp.
 * LCM
 
 ### This WebApp is hosted here:
-[Use Now](https://prateek-pixels.github.io/Calculator/)
+[Use Now](https://prateeksrivastava1.github.io/Calculator/)
